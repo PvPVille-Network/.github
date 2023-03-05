@@ -2,6 +2,6 @@
   
 ---
 
-[![](https://komarev.com/ghpvc/?username=PvPVille-Network&style=plastic&color=red)](https://github.com/PvPVille-Network)
+[![](https://komarev.com/ghpvc/?username=PvPVille-Network&style=plastic&color=darkred)](https://github.com/PvPVille-Network)
   
 ---
